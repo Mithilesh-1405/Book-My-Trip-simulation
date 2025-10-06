@@ -1,5 +1,3 @@
-# Travel-app-simulation
-
 Book My Trip Simulation
 =======================
 
