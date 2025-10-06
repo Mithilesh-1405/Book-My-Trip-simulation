@@ -17,7 +17,9 @@ The project is a C++ simulation of a travel booking application. The app follows
         
     *   Once logged in, users can view all available transportation options, search by source and destination, and book tickets.
         
-2.  **Core Classes**The application consists of 8 main classes:
+2.  **Core Classes**
+        
+       The application consists of 8 main classes:
     
     *   UserLogin – Handles user authentication.
         
