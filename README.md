@@ -61,4 +61,4 @@ Technologies Used
     
 *   **Concepts:** Object-Oriented Programming (Inheritance, Polymorphism, Abstraction, Encapsulation)
     
-*   **Development Tools:** Any standard C++ compiler
+*   **Development Tools:** Any standard C++ compiler.
